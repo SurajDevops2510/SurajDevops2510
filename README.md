@@ -1,31 +1,67 @@
 <h1 align="center">Hi 👋, I'm Suraj Thorat</h1>
-<h3 align="center">🚀 DevOps Engineer | Azure Certified | CI/CD Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | Azure Certified | Pune, India 🇮🇳</h3>
 
 <p align="center">
-  <a href="mailto:surajthorat701@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SurajDevops2510"><img src="https://img.shields.io/github/followers/SurajDevops2510?label=GitHub&style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:surajthorat701@gmail.com"><img src="https://img.shields.io/badge/Gmail-surajthorat701@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SurajDevops2510"><img src="https://img.shields.io/badge/GitHub-SurajDevops2510-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/connect-suraj-thorat"><img src="https://img.shields.io/badge/LinkedIn-Suraj%20Thorat-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 💼 DevOps Engineer with **3.6+ years** experience in cloud, automation & monitoring
-- ☁️ Azure Certified: AZ-900 | AZ-104 | AZ-400
-- 🛠️ Specializing in CI/CD, Docker, Kubernetes, Terraform, Azure DevOps
-- 🎯 Passionate about streamlining deployment and improving performance
+### 👨‍💼 About Me
+
+🔧 DevOps Engineer with **3.6+ years** of hands-on experience in automating, optimizing, and streamlining CI/CD pipelines and infrastructure.  
+☁️ Strong command over **Azure**, **Kubernetes**, **Docker**, **Terraform**, **Monitoring**, and **IaC**.  
+🤝 Proven ability to collaborate across teams for efficient and secure deployments.  
+📍 Based in **Hinjewadi, Pune, India**  
+---
+
+### 💼 Work Experience
+
+#### 🧑‍💻 **Senior Systems Engineer – Infosys Pvt. Ltd.**  
+📍 Pune | 🗓️ Jan 2023 – Present  
+- Spearheaded CI/CD pipeline automation, reducing deployment time by 40%.  
+- Managed Kubernetes clusters in Azure Cloud for scalable deployments.  
+- Implemented Helm for secret/config management.  
+- Containerized applications using Docker for consistency across environments.  
+- Deployed monitoring with **Prometheus** and **Grafana** for system health.
+
+#### 🧑‍💻 **System Engineer – Infosys Pvt. Ltd.**  
+📍 Pune | 🗓️ Jan 2022 – Dec 2022  
+- Managed Linux systems & automated infrastructure with Terraform.  
+- Built CI/CD using Azure DevOps.  
+- Identified and resolved Kubernetes issues, ensuring uptime and stability.  
 
 ---
 
-### 🛠️ Tech Stack
+### 🎓 Education
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,terraform,helm,git,github,python,java,ansible,prometheus,grafana,githubactions" />
-</p>
+🎓 **Bachelor's of Engineering**  
+Savitribai Phule Pune University (2017–2021)  
+📊 CGPA: **7.35**
 
 ---
 
-## 📜 Certifications
+### 🧠 Skills & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+### 📜 Certifications
+
 ### 🏅 Microsoft Certifications
 <table>
   <tr>
@@ -37,7 +73,8 @@
   <tr>
     <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="80"/></td>
     <td>
-      <b>Microsoft Certified: Azure Administrator Associate (AZ-104)</b><br>  
+      <b>Microsoft Certified: Azure Administrator Associate (AZ-104)</b><br>
+    </td>
   </tr>
   <tr>
     <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="80"/></td>
@@ -47,24 +84,25 @@
   </tr>
 </table>
 
+### 🏆 Awards
 
-### 🥇 Awards
+🏅 **Finacle Grand Slam Award – Dec 2023 (Infosys)**
 
-<p align="left">
-🏅 <strong>Finacle Grand Slam Award</strong> @ Infosys (Dec 2023)
-</p>
+---
 
-### 📫 Let's Connect
+### 🌐 Languages
 
-<p align="left">
-  <a href="mailto:surajthorat701@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://github.com/SurajDevops2510">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/connect-suraj-thorat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Pune,%20India-0A66C2?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
-</p>
+- 🇬🇧 English – Professional Working Proficiency  
+- 🇮🇳 Hindi – Full Professional Proficiency  
+- 🏠 Marathi – Native/Bilingual Proficiency  
+
+---
+
+### 💪 Strength
+
+> 💡 "As someone who is just starting out, I am really enthusiastic about learning anything that would benefit both me and the company I am working for."
+
+---
+
+
+_“Thank you for visiting my profile! Let’s connect and collaborate on exciting DevOps projects 🚀”_
