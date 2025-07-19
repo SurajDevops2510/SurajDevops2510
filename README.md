@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Thorat</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Passionate+DevOps+Engineer;Azure+Certified+Cloud+Professional;Loves+automation+%26+scaling+infra;Open+to+collaboration+and+learning" alt="Typing SVG" />
+</p>
 <h3 align="center">🚀 DevOps Engineer | Azure Certified | Pune, India 🇮🇳</h3>
 
 <p align="center">
@@ -10,7 +14,6 @@
 ---
 
 ### 👨‍💼 About Me
-
 🔧 DevOps Engineer with **3.6+ years** of hands-on experience in automating, optimizing, and streamlining CI/CD pipelines and infrastructure.  
 ☁️ Strong command over **Azure**, **Kubernetes**, **Docker**, **Terraform**, **Monitoring**, and **IaC**.  
 🤝 Proven ability to collaborate across teams for efficient and secure deployments.  
