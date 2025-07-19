@@ -51,15 +51,20 @@
 ### 🥇 Awards
 
 <p align="left">
-  <img src="https://img.icons8.com/emoji/48/trophy-emoji.png" width="30" alt="Trophy" />
-  &nbsp;&nbsp;🏅 <strong>Finacle Grand Slam Award</strong> @ Infosys (Dec 2023)
+🏅 <strong>Finacle Grand Slam Award</strong> @ Infosys (Dec 2023)
 </p>
----
 
 ### 📫 Let's Connect
-- 📍 Pune, India
-- 📧 [surajthorat701@gmail.com](mailto:surajthorat701@gmail.com)
-- 🌐 [GitHub](https://github.com/SurajDevops2510)
-<!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/) -->
 
----
+<p align="left">
+  <a href="mailto:surajthorat701@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://github.com/SurajDevops2510">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Pune,%20India-0A66C2?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
+</p>
